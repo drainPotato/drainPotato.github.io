@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+.text_about {
+  text-align: center;
+  color: #ffffe0;
+}
+
+.job_title {
+  color: #ff813b;
+  text-align: center;
+  font-size: 300%;
+  font-weight: bold;
+}
+
+.my_img {
+  position: relative;
+  left: 32%;
+}
+
+.my_info {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.skills {
+  background-color: #0f0f08;
+  padding: 0 10px 40px 40px;
+  padding-bottom: 20px;
+  margin: 10px 0;
+  align-items: center;
+}
+
+.skill_progress {
+  display: flex;
+}
+
+.skill_progress > div {
+  flex: 1;
+}
+
+.skills > p {
+  font-size: 30px;
+  font-weight: bold;
+  color: #ff813b;
+  position: relative;
+  top: 30px;
+}
+
+.languages > p,
+.os > p,
+.tools > p {
+  color: #ffffe0;
+}
+
+progress {
+  width: 80%;
+  accent-color: #FFA500;
+}
+
+
