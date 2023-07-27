@@ -26,3 +26,8 @@
     width:30px;
     margin: 0 10px;
 }
+
+.get_in_touch > div > a{
+    text-decoration: none;
+    color: #FFA500;
+}
