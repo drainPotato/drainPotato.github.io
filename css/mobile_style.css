@@ -84,4 +84,16 @@
     position: relative;
     right: 5%;
   }
+
+  .sub_project{
+    display: block;
+    text-align: center;
+  }
+
+  .sub_project > div {
+    display: inline-block;
+    width: 100%;
+    margin: 5px;
+    box-sizing: border-box;
+  }
 }
